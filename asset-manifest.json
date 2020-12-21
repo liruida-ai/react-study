@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/liruida-ai.io/ali/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/liruida-ai.io/ali/static/js/main.f3e73641.chunk.js",
+    "main.js.map": "/liruida-ai.io/ali/static/js/main.f3e73641.chunk.js.map",
+    "runtime-main.js": "/liruida-ai.io/ali/static/js/runtime-main.a6a79bba.js",
+    "runtime-main.js.map": "/liruida-ai.io/ali/static/js/runtime-main.a6a79bba.js.map",
+    "static/js/2.5793ad0c.chunk.js": "/liruida-ai.io/ali/static/js/2.5793ad0c.chunk.js",
+    "static/js/2.5793ad0c.chunk.js.map": "/liruida-ai.io/ali/static/js/2.5793ad0c.chunk.js.map",
+    "static/js/3.b3fd895a.chunk.js": "/liruida-ai.io/ali/static/js/3.b3fd895a.chunk.js",
+    "static/js/3.b3fd895a.chunk.js.map": "/liruida-ai.io/ali/static/js/3.b3fd895a.chunk.js.map",
+    "index.html": "/liruida-ai.io/ali/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/liruida-ai.io/ali/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5793ad0c.chunk.js.LICENSE.txt": "/liruida-ai.io/ali/static/js/2.5793ad0c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/liruida-ai.io/ali/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a79bba.js",
+    "static/js/2.5793ad0c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f3e73641.chunk.js"
+  ]
+}
